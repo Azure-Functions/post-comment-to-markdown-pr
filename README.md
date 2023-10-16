@@ -1,6 +1,6 @@
 # Post Comment to Markdown Pull Request Azure Function
 
-An Azure Function App that receives HTTP form posts containing a comment for a blog and turns them into pull request against your GitHub repository as part of the [nuxt-blog-comments](https://github.com/damieng/nuxt-blog-comments) system.
+An Azure Function App that receives HTTP form posts containing a comment for a blog and turns them into pull request against your GitHub repository.
 
 The app includes two functions:
 
